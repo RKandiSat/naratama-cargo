@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Favicon Naratama Adya Dewata.
+       Sengaja sederhana: pada 16 piksel di bilah tab, apa pun yang lebih
+       rumit dari satu huruf dan satu garis akan jadi bubur. Versi pertama
+       terlalu halus -- N-nya kecil dan garis emasnya hilang. Yang ini
+       dibuat tebal dan rapat ke tepi supaya tetap terbaca sekecil itu. -->
+  <rect width="64" height="64" rx="11" fill="#0E1930"/>
+  <path d="M13 44V13h7.4l16.2 18.6V13H45v31h-7.4L21.4 25.3V44H13Z" fill="#F7F5EF"/>
+  <rect x="13" y="49" width="38" height="6" rx="3" fill="#C6963A"/>
+</svg>

@@ -1,0 +1,47 @@
+{
+  "_cara_pakai": [
+    "Tambah berita = tambah satu obyek di awal daftar 'berita'. Tidak perlu menyentuh berkas lain.",
+    "tanggal WAJIB berbentuk YYYY-MM-DD. Ticker memakainya untuk mengurutkan,",
+    "dan untuk MENYEMBUNYIKAN DIRINYA SENDIRI kalau berita terbaru sudah lewat 45 hari.",
+    "Jadi kalau kamu berhenti memperbarui, tickernya hilang diam-diam -- bukan memajang berita basi.",
+    "Sisipkan satu berita saja sekali atau dua kali sebulan sudah cukup untuk menjaganya hidup."
+  ],
+  "berita": [
+    {
+      "tanggal": "2026-11-07",
+      "judul": "Biaya logistik industri makanan-minuman naik imbas pelemahan rupiah",
+      "sumber": "periskop.id",
+      "tautan": "https://periskop.id/makro/20261107/gapmmi-biaya-logistik-mamin-naik-rupiah"
+    },
+    {
+      "tanggal": "2026-11-04",
+      "judul": "Arus peti kemas internasional Pelindo tumbuh 10,34 persen",
+      "sumber": "urbannews.id",
+      "tautan": "https://www.urbannews.id/2026/11/04/arus-peti-kemas-internasional-pelindo-tumbuh-1034-pelaku-logistik-soroti-efisiensi/"
+    },
+    {
+      "tanggal": "2026-10-25",
+      "judul": "Pengusaha logistik cari celah atasi pelemahan rupiah",
+      "sumber": "Bisnis.com",
+      "tautan": "https://ekonomi.bisnis.com/read/20261025/98/2015516/pengusaha-logistik-cari-celah-atasi-pelemahan-rupiah"
+    },
+    {
+      "tanggal": "2026-10-20",
+      "judul": "Bea Cukai diminta bentuk fast track logistics untuk atasi kontainer menumpuk",
+      "sumber": "Warta Ekonomi",
+      "tautan": "https://wartaekonomi.co.id/read645589/atasi-kontainer-menumpuk-bea-cukai-diminta-bentuk-fast-track-logistics"
+    },
+    {
+      "tanggal": "2026-10-10",
+      "judul": "Asperindo keberatan biaya tambahan Jasper dan SGHA pada kargo udara",
+      "sumber": "Kontan",
+      "tautan": "https://insight.kontan.co.id/news/asperindo-keberatan-biaya-tambahan-jasper-dan-sgha"
+    },
+    {
+      "tanggal": "2026-10-02",
+      "judul": "Kemenkeu dorong standardisasi tarif setelah biaya kargo udara dikeluhkan mahal",
+      "sumber": "Kabar Bursa",
+      "tautan": "https://www.kabarbursa.com/makro/biaya-kargo-udara-dikeluhkan-mahal-kemenkeu-dorong-standardisasi-tarif"
+    }
+  ]
+}
